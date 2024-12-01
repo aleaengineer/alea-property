@@ -21,7 +21,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background-image: url('/images/hero-bg-1.jpg');
+    background-image: url('images/hero-bg-1.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
