@@ -41,9 +41,9 @@ alea-property/
 1. Clone the repository:
 ```bash
 git clone https://github.com/aleaengineer/alea-property.git
+```
 
 2. Navigate to project directory:
-```bash
 cd alea-property
 
 3. Open index.html in your browser
